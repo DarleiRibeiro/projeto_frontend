@@ -1,0 +1,22 @@
+[
+    {
+        "sequencial": "001",
+        "name": "CAIXA PROTESE JOELHO MDT V/A BRINGEL MEDICAL - CPJVA-AJ",
+        "caixaAbreviada": "CPJVA-AJ"
+    },
+    {
+        "sequencial": "002",
+        "name": "CAIXA PROTESE JOELHO MDT A/V/M/L BRINGEL MEDICAL - CPJB-AJ",
+        "caixaAbreviada": "CPJB-AJ"
+    },
+    {
+        "sequencial": "003",
+        "name": "CAIXA PROTESE JOELHO MDT VERMELHO BRINGEL MEDICAL - CPJVB-AJ",
+        "caixaAbreviada": "CPJVB-AJ"
+    },
+    {
+        "sequencial": "004",
+        "name": "CAIXA PROTESE JOELHO MDT V/A/M BRINGEL MEDICAL - CPJMDT-AJ",
+        "caixaAbreviada": "CPJMDT-AJ"
+    }
+]

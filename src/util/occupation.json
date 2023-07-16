@@ -1,0 +1,18 @@
+[
+    {
+        "descricao": "ADMINISTRATIVO",
+        "idprofissao": "5"
+    },
+    {
+        "descricao": "ENFERMEIRA",
+        "idprofissao": "4"
+    },
+    {
+        "descricao": "TÉCNICO ENFERMAGEM",
+        "idprofissao": "3"
+    },
+    {
+        "descricao": "ANALISTA DE SISTEMAS",
+        "idprofissao": "1"
+    }
+]

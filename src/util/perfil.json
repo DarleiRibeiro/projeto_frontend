@@ -1,0 +1,17 @@
+[
+    { 
+        "name": "Supervisor" 
+    },
+    { 
+        "name": "Enfermeiro" 
+    },
+    { 
+        "name": "Analista" 
+    },
+    { 
+        "name": "Técnico" 
+    },
+    { 
+        "name": "Transportador"
+    }
+]

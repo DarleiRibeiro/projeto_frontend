@@ -1,0 +1,39 @@
+.botao-solicitacao{
+    font-weight: normal;
+}
+.container-table{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 2vh;
+
+}
+.labelSelected{
+    width: 40%;
+    border: 1px solid #dee2e6;
+    text-align: center;
+    display: grid;
+    align-items: center
+}
+.text-area{
+    width: 90%;
+    margin-top: 2dvh;
+}
+.container-geral{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.icone-content{
+    display: flex;
+    place-self: center;
+    place-content: center;
+    place-items: center;
+}
+.geral-informacao{
+    width: 80%;
+}
+.p-dialog-content, .p-dialog, .p-dialog-header {
+    background: linear-gradient(90deg, rgba(0,57,85,1) 0%, rgba(0,74,126,1) 100%) !important;
+    color: #ffffffd9 !important;
+}

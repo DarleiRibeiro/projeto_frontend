@@ -1,0 +1,22 @@
+[
+	{
+		"idtipopacote": 3,
+		"descricao": "ROUPARIA",
+		"dtcadastro": "2020-12-02T13:01:57.529Z"
+	},
+	{
+		"idtipopacote": 2,
+		"descricao": "INSUMO",
+		"dtcadastro": "2020-12-09T19:40:00.015Z"
+	},
+	{
+		"idtipopacote": 1,
+		"descricao": "INSTRUMENTAL",
+		"dtcadastro": "2020-12-09T20:32:09.123Z"
+	},
+	{
+		"idtipopacote": 4,
+		"descricao": "INALATORIO",
+		"dtcadastro": "2020-12-09T19:52:43.237Z"
+	}
+]
